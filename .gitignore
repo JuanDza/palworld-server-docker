@@ -1,4 +1,9 @@
 palworld
+!palworld/Pal/
+!palworld/Pal/Saved/
+!palworld/Pal/Saved/Config/
+!palworld/Pal/Saved/Config/LinuxServer/
+!palworld/Pal/Saved/Config/LinuxServer/PalWorldSettings.ini
 .idea
 !charts/*
 values*.yaml
